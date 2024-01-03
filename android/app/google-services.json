@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "103092752499",
+    "project_id": "fir-paractice-7de3e",
+    "storage_bucket": "fir-paractice-7de3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103092752499:android:6dfc3cd2770a867f7b9a06",
+        "android_client_info": {
+          "package_name": "com.example.firebase1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3wWuIi3ItaOOLk5vMvgRZfrkyOE-TwEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
